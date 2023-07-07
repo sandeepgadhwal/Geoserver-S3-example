@@ -1,0 +1,9 @@
+services:
+
+  geoserver:
+    build:
+      context: .
+    ports:
+      - 8080:8080
+    volumes:
+      - /data/test/gsdata:/usr/local/tomcat/webapps/geoserver/data
