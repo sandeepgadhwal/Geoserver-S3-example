@@ -1,5 +1,5 @@
-# Geoserver-s3-geotiff-plugin-example
-This example shows how to setup geoserver with s3 geotiff plugin.
+# Geoserver S3 example
+This example shows how to load s3 geotiff in geoserver.
 
 
 ## Start server
